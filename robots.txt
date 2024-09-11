@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phodroceh.github.io/sitemap.html.gz
+Sitemap: https://phodroceh.github.io/app/sitemap.html.gz
+Sitemap: https://phodroceh.github.io/assets/sitemap.html.gz
+Sitemap: https://phodroceh.github.io/css/sitemap.html.gz
+Sitemap: https://phodroceh.github.io/includes/sitemap.html.gz
+Sitemap: https://phodroceh.github.io/item/sitemap.html.gz
+Sitemap: https://phodroceh.github.io/src/sitemap.html.gz
